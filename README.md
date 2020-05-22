@@ -23,13 +23,24 @@ Clone the repository
 
 Import > Maven > Existing project into workspace..." and select the pom.xml included with the project
 
+![image](https://user-images.githubusercontent.com/65677020/82671224-7da92880-9c0c-11ea-9340-b4a917e667dd.png)
+
 
 ## Running the Tests
 
 To run the tests you can Select the DeckTests file and click the Run button in Eclipse
 
+![image](https://user-images.githubusercontent.com/65677020/82671854-85b59800-9c0d-11ea-9506-ae5113be4bda.png)
+
 You can alternatively right-click to open a context menu and use the Run As > TestNG Test option
 
+![image](https://user-images.githubusercontent.com/65677020/82671985-bac1ea80-9c0d-11ea-921f-cdb2abc5b872.png)
+
+## Viewing the Test Results
+
+The TestNG Report section will show the results of the tests.
+
+![image](https://user-images.githubusercontent.com/65677020/82672058-d1684180-9c0d-11ea-8392-efc5fa7083e6.png)
 
 ## Built With
 
