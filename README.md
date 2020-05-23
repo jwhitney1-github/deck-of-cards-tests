@@ -14,14 +14,14 @@ Install the following to run the project.
 * JDK: version 13.0.2
 * JRE: version jre 1.8.0_241
 
-**NOTE:** The project was developed and tested on these versions an compatibility with any other versions (especially older) are not guaranteed
+**NOTE:** The project was developed and tested on these versions. Compatibility with any other versions (especially older) are not guaranteed.
 
 ### Installing
 
 Clone the repository
 
 
-Import > Maven > Existing project into workspace..." and select the pom.xml included with the project
+Import > Maven > Existing Maven Projects" and select the pom.xml included with the project
 
 ![image](https://user-images.githubusercontent.com/65677020/82671224-7da92880-9c0c-11ea-9340-b4a917e667dd.png)
 
